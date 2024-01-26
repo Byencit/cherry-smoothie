@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+        background: #ccc url("fruity.jpg") center center;;
+        background-repeat: repeat (1 1fr);
+    }  
